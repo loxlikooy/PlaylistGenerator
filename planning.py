@@ -5,7 +5,7 @@ import random
 import openpyxl
 from openpyxl.styles import PatternFill
 
-os.chdir(r"C:\Users\Lenovo\Desktop\mediaplan")
+os.chdir(r"")
 
 def hour_to_seconds(time):
     a = 0
